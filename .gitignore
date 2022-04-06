@@ -1,2 +1,4 @@
 .idea
 UTEGroup8DatabaseParser.iml
+out
+!files/out
