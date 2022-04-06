@@ -14,16 +14,30 @@ import java.util.List;
 import java.util.Objects;
 
 public class ParseDatabase {
-    public static List<Property> properties = Arrays.asList(
+    public static final List<Property> properties = Arrays.asList(
             new IDProperty(),
+
             new StringProperty("title","Titel"),
+            new StringProperty("series","Serie"),
+
             new StringProperty("lang","Sprache"),
+
             new StringArrayProperty("authors","Autoren"),
             new StringArrayProperty("tags","Schlagwörter"),
             new StringArrayProperty("abstract","Abstract"),
             new StringArrayProperty("notes","Notizen"),
-            new StringProperty("isbn","ISBN"),
-            new ManualProperty("url", "URL_HERE")
+
+            new StringProperty("publicationInfo","Publikationsinformationen"),
+            new StringProperty("releaseYear","Jahr erschienen"),
+            new StringProperty("releaseType","Publikationstyp"),
+
+            new StringProperty("documentType","Dokumenttyp"),
+            new StringProperty("medium","Umfang"),
+
+            new StringArrayProperty("isbn","ISBN"),
+            new StringProperty("accessionNr","Akzessionsnummer"),
+
+            new StringProperty("cover", "Cover")      //Custom
     );
 
 
