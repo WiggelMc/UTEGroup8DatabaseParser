@@ -18,6 +18,7 @@
       "1992",
     ],
     isbn: "9780812205435",
+    url: "URL_HERE",
   },
   {
     id: "0002-D5D801468873312C1E76A7E71F0F7F8",
@@ -45,4 +46,5 @@
       "Texts in Anglo-Norman with English translation; introduction and editorial matter in English",
     ],
     isbn: "9781783743148",
+    url: "URL_HERE",
   },

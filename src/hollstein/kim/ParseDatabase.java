@@ -22,7 +22,8 @@ public class ParseDatabase {
             new StringArrayProperty("tags","Schlagwörter"),
             new StringArrayProperty("abstract","Abstract"),
             new StringArrayProperty("notes","Notizen"),
-            new StringProperty("isbn","ISBN")
+            new StringProperty("isbn","ISBN"),
+            new ManualProperty("url", "URL_HERE")
     );
 
 
