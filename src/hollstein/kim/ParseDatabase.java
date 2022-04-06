@@ -15,6 +15,7 @@ import java.util.Objects;
 
 public class ParseDatabase {
     public static List<Property> properties = Arrays.asList(
+            new IDProperty(),
             new StringProperty("title","Titel"),
             new StringProperty("lang","Sprache"),
             new StringArrayProperty("authors","Autoren"),

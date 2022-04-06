@@ -28,7 +28,7 @@ public abstract class Property {
 
         List<String> matches = new ArrayList<>();
         for (String s : regexMatches) {
-            String m = s.trim();
+            String m = s.trim().replace("\"", "\\\"");
             if (m.length() >= 1)
                 matches.add(m);
         }
