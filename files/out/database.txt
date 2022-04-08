@@ -1,5 +1,5 @@
   {
-    id: "0001-883CCC420F3126A84E33D1712BE8B4E3",
+    id: "0001-3D78CA30DBE24AB35F87E4B48E034BAC",
     title: "Before the Normans : Southern Italy in the Ninth and Tenth Centuries / Barbara M. Kreutz",
     series: "The Middle Ages Series",
     lang: "English",
@@ -27,6 +27,7 @@
       "9780812205435",
     ],
     accessionNr: "zhb.1658624033",
+    rating: 5,
     cover: "https://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=9780812205435",
   },
   {
@@ -70,4 +71,5 @@
       "1783743166",
     ],
     accessionNr: "zhb.1066604665",
+    rating: 2,
   },
