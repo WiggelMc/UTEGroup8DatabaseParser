@@ -15,7 +15,7 @@ public class RandomIntProperty extends Property {
 
     @Override
     public String parse(String text) {
-        random.setSeed(text.hashCode());
+        random.setSeed((text+key).hashCode());
         return "    " + key + ": " + func.apply(random) + ",\n";
     }
 

@@ -34,6 +34,20 @@ public class Main {
                     r.nextInt(5) + 1
             )),
 
+            new RandomIntProperty("availableEbook", r -> (
+                    r.nextInt(2)
+            )),
+            new RandomIntProperty("availableRent", r -> (
+                    r.nextInt(3)
+            )),
+            new RandomIntProperty("rentDelay", r -> (
+                    r.nextInt(30) + 1
+            )),
+            new RandomIntProperty("availableThere", r -> (
+                    r.nextInt(2)
+            )),
+
+
             new StringProperty("cover", "Cover")      //Custom
     );
 

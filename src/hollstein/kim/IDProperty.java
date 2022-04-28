@@ -22,7 +22,7 @@ public class IDProperty extends Property {
             m.reset();
             m.update(text.getBytes());
             byte[] b = m.digest();
-            String str = String.format("%04d",id++) + "-" + new BigInteger(1,b).toString(16).toUpperCase();
+            String str = new BigInteger(1,b).toString(16).toUpperCase();
             return "    id: \"" + str + "\",\n";
         } catch (NoSuchAlgorithmException e) {
             e.printStackTrace();

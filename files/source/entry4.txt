@@ -1,0 +1,139 @@
+
+Gastzugang Hochschule Flensburg - bitte anmelden
+Zum Hauptinhalt
+
+    ZHB Benutzerkonto
+    Neue Suche
+    E-Medien A-Z
+    Kurzhilfe
+
+
+    Einstellungen
+    Sprache
+    Beenden
+
+citation_instruction
+Tipps und Informationen bezüglich des Zugriffs
+Healthcare Interoperability Standards Compliance Handbook : Conformance and Testing of Healthcare Data Exchange Standards
+ZHB
+Suchen
+
+Bitte geben Sie Ihren Suchbegriff/Ihre Suchbegriffe ein
+Hilfe durchsuchen (wird in neuem Fenster geöffnet)
+
+    Einfache Suche Erweiterte Suche Suchverlauf
+
+ZHB Flensburg
+
+    Ergebnisliste Suche eingrenzen Ergebnis 5 von 26,562
+
+Zitat
+
+Titel:
+    Healthcare Interoperability Standards Compliance Handbook : Conformance and Testing of Healthcare Data Exchange Standards
+    Book Jacket
+Serie:
+    2016 Springer EBA Collection
+Autoren:
+    Frank Oemig
+    Robert Snelick
+Publikationsinformationen:
+    Cham : Springer. 2016
+Ressourcentyp:
+    eBook.
+Beschreibung:
+    This book focuses on the development and use of interoperability standards related to healthcare information technology (HIT) and provides in-depth discussion of the associated essential aspects. The book explains the principles of conformance, examining how to improve the content of healthcare data exchange standards (including HL7 v2.x, V3/CDA, FHIR, CTS2, DICOM, EDIFACT, and ebXML), the rigor of conformance testing, and the interoperability capabilities of healthcare applications for the benefit of healthcare professionals who use HIT, developers of HIT applications, and healthcare consumers who aspire to be recipients of safe and effective health services facilitated through meaningful use of well-designed HIT.Readers will understand the common terms interoperability, conformance, compliance and compatibility, and be prepared to design and implement their own complex interoperable healthcare information system. Chapters address the practical aspects of the subject matter to enable application of previously theoretical concepts. The book provides real-world, concrete examples to explain how to apply the information, and includes many diagrams to illustrate relationships of entities and concepts described in the text.Designed for professionals and practitioners, this book is appropriate for implementers and developers of HIT, technical staff of information technology vendors participating in the development of standards and profiling initiatives, informatics professionals who design conformance testing tools, staff of information technology departments in healthcare institutions, and experts involved in standards development. Healthcare providers and leadership of provider organizations seeking a better understanding of conformance, interoperability, and IT certification processes will benefit from this book, as will students studying healthcare information technology.
+Themen:
+    Computer science
+    Health services administration
+    Medical informatics
+    Electronic data interchange--Standards
+    Computer system failures
+    System Performance and Evaluation
+Kategorien:
+    MEDICAL / General
+    COMPUTERS / Hardware / Cell Phones & Devices
+    MEDICAL / Administration
+Zugehörige ISBNs:
+    9783319448374. 9783319448398.
+OCLC:
+    967556975
+Akzessionsnummer:
+    1302178
+Datenbank:
+    eBook Collection (EBSCOhost)
+Verlagsberechtigungen:
+    Drucken/E-Mail/Speichern 15 Seiten
+    Beschränktes Kopieren/Einfügen
+Gleichzeitige Benutzerebene:
+    Begrenzter Benutzerzugriff (1 Kopien verfügbar)
+
+Relevanteste Seiten aus diesem eBook
+
+...This work is documented in the publication “Technical Evaluation, Testing and Validation of the Usability of Electronic Health Records” [19]. This study provides an overview of usability testing and the EUP, and includes check lists for conducting usability tests of EHR user interfaces. 11.10.6 Load Testing In the context of distributed applications communicating via interfaces, load testing is ... Seite anzeigen þÿ441 - 11.11 Summary
+
+...quality issues. 11.10.5 Usability Testing Usability testing is performed to evaluate an application from the human factor perspective. Metrics include how easy the software is to use in terms of navigation, layout, and speed. Other factors include how intuitive the software is and how closely the application relates to the workflow it is intended to support. Usability testing should help determine... Seite anzeigen þÿ440 - 11.10.5 Usability Testing
+
+...Testing . . . . . . . . . . . . . . 430 11.9 Negative Testing. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 432 11.9.1 Message and Document Incorporation. . . . . . . . . . . . 433 11.9.2 Boundary Testing . . . . . . . . . . . . . . . . . . . . . . . . . . . 435 11.9.3 False Positive and False Negative Test Results . . . . . 435 11.10 Other Types of Testing. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 436 11.10.1 Smoke Testing. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 437 11.10.2 Communication Testing. . . . . . . . . . . . . . . . . . . . . . . 437 11.10.3 Application Functional Testing . . . . . . . . . . . . . . . . . 438 11.10.4 Data Quality Testing . . . . . . . . . . . . . . . . . . . . . . . . . 439 11.10.5 Usability Testing . . . . . . . . . . . . . . . . . . . . . . . . . . . . 440 11.10.6 Load Testing... Seite anzeigen þÿxxi - Contents
+Inhaltsverzeichnis
+
+    Foreword
+    Ebene anzeigen Preface
+    Contents
+    About the Authors
+    Acronyms
+    List of Figures
+    List of Tables
+    Healthcare Information Technology
+    Ebene anzeigen 1 Introduction
+    Ebene anzeigen 2 Architecture
+    Ebene anzeigen 3 Healthcare Standards Landscape
+    Ebene anzeigen 4 Healthcare Data Exchange Standards
+    Conformance (and Tools)
+    Ebene anzeigen 5 Conformance Constructs
+    Ebene anzeigen 6 Principles of Specifying Conformance
+    Ebene anzeigen 7 Principles of Effective Profiling
+    Ebene anzeigen 8 Profile Relationships
+    Ebene anzeigen 9 Conformance Profiling Tools
+    Testing (and Tools)
+    Ebene anzeigen 10 Testing Models
+    Ebene anzeigen 11 Principles of Conformance Testing
+    Ebene anzeigen 12 Conformity Assessment
+    Ebene anzeigen 13 Testing Architectures
+    Ebene anzeigen 14 Testing Tools
+    Ebene anzeigen 15 Testing and Certification Programs
+    Ebene anzeigen Appendix A: Additional Healthcare Data Exchange Standards
+    Appendix B: Trademark Information
+    Index
+
+    Ergebnisliste Suche eingrenzen Ergebnis 5 von 26,562
+
+Datensatz-Formate minimieren
+Dokumentanzeigeoptionen:
+
+    PDF-Volltext
+    EPUB-Volltext
+
+Verwandte Informationen
+
+    Relevanteste Seiten aus diesem eBook
+    Inhaltsverzeichnis
+
+Artikeltools minimieren
+Tools
+
+    Google Drive
+    Drucken
+    E-Mail
+    Speichern
+    Zitieren
+    Exportieren
+    Permalink
+
+
+
+Seitenanfang
+
+    EBSCO Connect Datenschutz A/B-Test Nutzungsbedingungen Urheberrecht Cookie-Richtlinie Wenden Sie sich an uns
+
+© 2022 EBSCO Industries, Inc. Alle Rechte vorbehalten.

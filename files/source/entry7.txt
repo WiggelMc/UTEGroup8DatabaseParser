@@ -1,0 +1,119 @@
+
+Gastzugang Hochschule Flensburg - bitte anmelden
+Zum Hauptinhalt
+
+    ZHB Benutzerkonto
+    Neue Suche
+    E-Medien A-Z
+    Kurzhilfe
+
+
+    Einstellungen
+    Sprache
+    Beenden
+
+citation_instruction
+Tipps und Informationen bezüglich des Zugriffs
+Basiswissen Softwaretest : Aus- und Weiterbildung zum Certified Tester – Foundation Level nach ISTQB®-Standard
+ZHB
+Suchen
+
+Bitte geben Sie Ihren Suchbegriff/Ihre Suchbegriffe ein
+Hilfe durchsuchen (wird in neuem Fenster geöffnet)
+
+    Einfache Suche Erweiterte Suche Suchverlauf
+
+ZHB Flensburg
+
+    Ergebnisliste Suche eingrenzen Ergebnis 20 von 26,562
+
+Zitat
+
+Titel:
+    Basiswissen Softwaretest : Aus- und Weiterbildung zum Certified Tester – Foundation Level nach ISTQB®-Standard
+    Book Jacket
+Serie:
+    iSQI-Reihe
+Autoren:
+    Andreas Spillner
+    Tilo Linz
+Publikationsinformationen:
+    Ed.: 6., überarbeitete und aktualisierte Auflage. Heidelberg : dpunkt.verlag. 2019
+Ressourcentyp:
+    eBook.
+Beschreibung:
+    Professionelles Prüfen und Testen von Software ist eine unabdingbare und sehr wichtige Aufgabe zur Qualitätssicherung bei der Entwicklung und Wartung von Software – unabhängig davon, ob agil oder konventionell vorgegangen wird. Eine solch wichtige Aufgabe erfordert Fachwissen, erworben durch eine fundierte Ausbildung. Mit dem'Certified Tester'-Programm existiert ein international standardisiertes Aus- und Weiterbildungsschema für Softwaretester und Softwareentwickler.Dieses Buch umfasst den erforderlichen Stoff zum Ablegen der Prüfung'Certified Tester (Foundation Level)'nach ISTQB®-Standard. Es vermittelt das nötige Grundlagenwissen und verwendet dabei ein durchgängiges Beispiel. Das Buch eignet sich damit nicht nur bestens für die Prüfungsvorbereitung, sondern dient gleichzeitig als kompaktes Basiswerk zu diesen Themen.In vielen Unternehmen und Projekten hat sich das Buch als Standard(nachschlage)werk für das Prüfen und Testen von Software etabliert. Um diesem Anspruch auch weiterhin gerecht zu werden, wurden in der neuen Auflage praxiserprobte Testverfahren aus dem aktuellen ISO-Standard 29119 hinzugenommen. Damit werden alle wesentlichen Methoden zum Testen von Software und zum Prüfen der während der Softwareentwicklung verwendeten und erstellten Dokumente im Buch ausführlich behandelt.Die 6. Auflage wurde komplett überarbeitet und ist konform zum ISTQB®-Lehrplan Version 2018. Abgedeckt wird damit auch der entsprechende deutschsprachige Foundation-Level-Lehrplan des German Testing Board, des Austrian Testing Board und des Swiss Testing Board.
+Themen:
+    Electronic data processing personnel--Certification
+    Computer software--Testing--Examinations--Study guides
+    Computer programmers--Certification
+Kategorien:
+    COMPUTERS / Software Development & Engineering / Quality Assurance & Testing
+Sprache:
+    German
+Zugehörige ISBNs:
+    9783864905834. 9783960885016.
+OCLC:
+    1107052687
+Akzessionsnummer:
+    2151604
+Datenbank:
+    eBook Collection (EBSCOhost)
+Verlagsberechtigungen:
+    Drucken/E-Mail/Speichern 100 Seiten
+    Unbegrenztes Kopieren/Einfügen
+Gleichzeitige Benutzerebene:
+    Unbegrenzter Benutzerzugriff
+
+Relevanteste Seiten aus diesem eBook
+
+... Professional for Usability and User Experience (CPUX) – Foundation Level (CPUX-F). dpunkt.verlag, 2019. Gilb, T.; Graham, D.: Software Inspection. Addison Wesley, 1993. Graham, D.; Fewster, M.: Experiences of Test Automation: Case Studies of Software Test Automation. Addison-Wesley Professional, 2012. C Quellenverzeichnis 336 Gregory, J.; Crispin, L.: More Agile Testing: Learning Journeys for the Whole Team. ... Seite anzeigen 335 - C.2 Weitere empfohlene Literatur
+
+...[Beizer 90] Beizer, B.: Software Testing Techniques. Van Nostrand Reinhold, 1990. [Boehm 79] Boehm, B. W.: Guidelines for Verifying and Validating Software Requirements and Design Specification. In: Proceedings of Euro IFIP 1979, S. 711 – 719. [Boehm 86] Boehm, B. W.: A Spiral Model of Software Development and Enhancement. ACM SIGSOFT, August 1986, S. 14 – 24. [Bourne 97] Bourne, K. C.: Testing ... Seite anzeigen 333 - C.1 Literatur
+
+...appropriate body of knowledge and experience. This problem is quite clear in the area of software testing. Many new employees are assigned testing duties without any knowledge how to design tests, how to evaluate test results, and how to draw valid conclusions can be drawn from the test results. Fortunately, there is now a useful international initiative to establish national Testing Boards, 1. ... Seite anzeigen xx - Vorwort zur 1. Auflage
+Inhaltsverzeichnis
+
+    Vorwort zur 6. Auflage
+    Inhaltsübersicht
+    Inhaltsverzeichnis
+    Vorwort zur 1. Auflage
+    1 Einleitung
+    Ebene anzeigen 2 Grundlagen des Softwaretestens
+    Ebene anzeigen 3 Testen im Softwareentwicklungslebenszyklus
+    Ebene anzeigen 4 Statischer Test
+    Ebene anzeigen 5 Dynamischer Test
+    Ebene anzeigen 6 Testmanagement
+    Ebene anzeigen 7 Testwerkzeuge
+    Ebene anzeigen Anhang
+
+    Ergebnisliste Suche eingrenzen Ergebnis 20 von 26,562
+
+Datensatz-Formate minimieren
+Dokumentanzeigeoptionen:
+
+    PDF-Volltext
+
+Verwandte Informationen
+
+    Relevanteste Seiten aus diesem eBook
+    Inhaltsverzeichnis
+
+Artikeltools minimieren
+Tools
+
+    Google Drive
+    Drucken
+    E-Mail
+    Speichern
+    Zitieren
+    Exportieren
+    Permalink
+
+
+
+Seitenanfang
+
+    EBSCO Connect Datenschutz A/B-Test Nutzungsbedingungen Urheberrecht Cookie-Richtlinie Wenden Sie sich an uns
+
+© 2022 EBSCO Industries, Inc. Alle Rechte vorbehalten.

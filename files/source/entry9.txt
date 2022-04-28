@@ -1,0 +1,131 @@
+
+Zum Hauptinhalt
+
+    ZHB Benutzerkonto
+    Neue Suche
+    E-Medien A-Z
+    Kurzhilfe
+
+
+    Ordner
+    Einstellungen
+    Sprache
+    Anmelden
+    Beenden
+
+citation_instruction
+Tipps und Informationen bezüglich des Zugriffs
+Cross cultural usability testing of MOOC platform
+ZHB
+Suchen
+
+Bitte geben Sie Ihren Suchbegriff/Ihre Suchbegriffe ein
+Hilfe durchsuchen (wird in neuem Fenster geöffnet)
+
+    Einfache Suche Erweiterte Suche Suchverlauf
+
+ZHB Flensburg
+
+    Ergebnisliste Suche eingrenzen Ergebnis 10 von 215,987
+
+Zitat
+
+Titel:
+    Cross cultural usability testing of MOOC platform
+Autoren:
+    Selmanovic, Dzenan
+    Sayar, Ahmet
+    Durdu, Pinar O.
+Quelle:
+    2021 5th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT) Multidisciplinary Studies and Innovative Technologies (ISMSIT), 2021 5th International Symposium on. :409-414 Oct, 2021
+Info zu Verlag:
+    IEEE
+Jahr der Veröffentlichung:
+    2021
+Schlagwörter:
+    Communication, Networking and Broadcast Technologies
+    Computing and Processing
+    Engineered Materials, Dielectrics and Plasmas
+    Engineering Profession
+    Photonics and Electrooptics
+    Power, Energy and Industry Applications
+    Robotics and Control Systems
+    Signal Processing and Analysis
+    Computer aided instruction
+    Electronic learning
+    Atmospheric measurements
+    Particle measurements
+    Time measurement
+    Cultural differences
+    Web sites
+    MOOC platform usability
+    Udemy
+    usability of website
+    cross-cultural usability evaluation
+    WAMMI
+Beschreibung:
+    In this research, the usability evaluation of the MOOC platform Udemy was performed with the participation of 10 undergraduate and postgraduate students from American, European and African countries coming from different cultures. Participants were assigned five tasks, which were decided according to website context, and the author observed and reported the difficulties they encountered under qualitative results. Quantitative results are given as success rate and time needed to perform each task. Participants were then asked to fill out a questionnaire on Web Site Analysis and Measurement Inventory (WAMMI). Based on the results, it was decided that usability measurements of the participants were above the average but author was not able to make any inference about cross cultural differences due to limited number or participants.
+Inhaltsnotiz:
+    Conference Acronym: ISMSIT
+Dokumenttyp:
+    Conference
+Sprache:
+    English
+Autor- zugehörigkeiten:
+    Kocaeli University,Department of Computer Engineering,Kocaeli,Turkey
+ISBN:
+    978-1-6654-4930-4
+Verhältnis:
+    2021 5th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)
+DOI:
+    10.1109/ISMSIT52890.2021.9604673
+Rechte:
+    Copyright 2021, IEEE
+AMSID:
+    9604673
+Conference Acronym:
+    ISMSIT
+Date of Current Version:
+    2021
+Document Subtype:
+    IEEE Conference
+Notizen:
+    Conference Location: Ankara, Turkey, Turkey
+
+    Conference Start Date: 21 Oct. 2021
+
+    Conference End Date: 23 Oct. 2021
+Akzessionsnummer:
+    edseee.9604673
+Datenbank:
+    IEEE Xplore Digital Library
+
+    Ergebnisliste Suche eingrenzen Ergebnis 10 von 215,987
+
+Datensatz-Formate minimieren
+Dokumentanzeigeoptionen:
+
+    Check IEEE Xplore for full text. A new window will open.
+
+Verwandte Informationen
+
+Artikeltools minimieren
+Tools
+
+    Google Drive
+    Dem Ordner hinzufügen
+    Drucken
+    E-Mail
+    Speichern
+    Zitieren
+    Exportieren
+    Notiz erstellen
+    Permalink
+
+
+
+Seitenanfang
+
+    Im App Store herunterladen Bei Google Play abrufen EBSCO Connect Datenschutz A/B-Test Nutzungsbedingungen Urheberrecht Cookie-Richtlinie Wenden Sie sich an uns
+
+© 2022 EBSCO Industries, Inc. Alle Rechte vorbehalten.
