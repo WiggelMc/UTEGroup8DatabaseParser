@@ -46,6 +46,9 @@ public class Main {
             new RandomIntProperty("availableThere", r -> (
                     r.nextInt(2)
             )),
+            new RandomIntProperty("database", r -> (
+                    r.nextInt(3) - 1
+            )),
 
 
             new StringProperty("cover", "Cover")      //Custom
