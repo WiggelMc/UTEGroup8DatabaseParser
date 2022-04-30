@@ -1,0 +1,118 @@
+Cover:
+    https://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=9781118974315
+
+Gastzugang Hochschule Flensburg - bitte anmelden
+Zum Hauptinhalt
+
+    ZHB Benutzerkonto
+    Neue Suche
+    E-Medien A-Z
+    Kurzhilfe
+
+
+    Einstellungen
+    Sprache
+    Beenden
+
+citation_instruction
+Tipps und Informationen bezüglich des Zugriffs
+Design for safety / edited by Louis J Gullo, Raytheon Missile Systems, Jack Dixon, Dynamics Research Corporation
+ZHB
+Suchen
+
+Bitte geben Sie Ihren Suchbegriff/Ihre Suchbegriffe ein
+Hilfe durchsuchen (wird in neuem Fenster geöffnet)
+
+    Einfache Suche Erweiterte Suche Suchverlauf
+
+ZHB Flensburg
+
+    Ergebnisliste Suche eingrenzen Ergebnis 25 von 42,382,858
+
+Zitat
+
+Titel:
+    Design for safety / edited by Louis J Gullo, Raytheon Missile Systems, Jack Dixon, Dynamics Research Corporation
+    Book Jacket
+Sprache:
+    English
+Publikationsinformationen:
+    Hoboken, NJ, USA John Wiley & Sons, Ltd, 2018
+Jahr erschienen:
+    2018
+Umfang:
+    1 Online-Ressource
+Serie:
+    Quality and reliability engineering series
+Publikationstyp:
+    Book
+Dokumenttyp:
+    Online
+Schlagwörter:
+    TECHNOLOGY & ENGINEERING ; Reference
+    TECHNOLOGY & ENGINEERING ; Engineering (General)
+    System safety
+    eBook-Wiley-UBCM-eBook-Collection-2018
+Abstract:
+    Summary: Observational Checklists 118 6.2.3 Design Checklists 119 6.3 Use of Checklists 122 References 123 Suggestions for Additional Reading 124 Additional Sources of Checklists 124 7 System Safety Hazard Analysis 125; Jack Dixon 7.1 Introduction to Hazard Analyses 125 7.1.1 Definition of Terms 126 7.2 Risk 126 7.3 Design Risk 127 7.3.1 Current State of the Art of Design Risk Management 127 7.3.2 Expression of Risk 127 7.3.3 Risk Management 128 7.4 Design Risk Management Methods and Hazard Analyses 135 7.4.1 Role of Hazard Analysis 135 7.5 Hazard Analysis Tools 136 7.5.1 Preliminary Hazard List 136 7.5.2 Preliminary Hazard Analysis 138 7.5.3 Subsystem Hazard Analysis (SSHA) 140 7.5.4 System Hazard Analysis (SHA) 143 7.5.5 Operating & Support Hazard Analysis (O&SHA) 145 7.5.6 Health Hazard Analysis (HHA) 148 7.6
+
+    Summary: Improvement Actions 180 8.5.5 Performing PFMECA and Reporting Results 181 8.6 Conclusion 182 Acknowledgments 182 References 182 Suggestions for Additional Reading 183 9 Fault Tree Analysis for System Safety 185; Jack Dixon 9.1 Background 185 9.2 What Is a Fault Tree? 186 9.2.1 Gates and Events 187 9.2.2 Definitions 187 9.3 Methodology 189 9.4 Cut Sets 193 9.5 Quantitative Analysis of Fault Trees 198 9.6 Automated Fault Tree Analysis 199 9.7 Advantages and Disadvantages 200 9.8 Example 200 9.9 Conclusion 207 References 207 Suggestions for Additional Reading 208 10 Complementary Design Analysis Techniques 209; Jack Dixon 10.1 Background 209 10.2 Discussion of Less Used Techniques 210 10.2.1 Event Tree Analysis 210 10.2.2 Sneak Circuit Analysis 213 10.2.3 Functional Hazard
+
+    Summary: You Are Likely to Discover the Right Practices 13 1.4 Create Your Own Paradigms 13 1.5 Summary 14 References 14 2 The History of System Safety 17; Jack Dixon 2.1 Introduction 17 2.2 Origins of System Safety 18 2.2.1 History of System Safety 19 2.2.2 Evolution of System Safety and Its Definitions 21 2.2.3 The Growth of System Safety 23 2.3 Tools of the Trade 30 2.4 Benefits of System Safety 31 2.5 System Safety Management 34 2.6 Integrating System Safety into the Business Process 34 2.6.1 Contracting for System Safety 34 References 36 Suggestions for Additional Reading 38 3 System Safety Program Planning and Management 39; Louis J
+
+    Summary: Series Editor’s Foreword xvii Preface xix Acknowledgments xxiii Introduction: What You Will Learn xxv 1 Design for Safety Paradigms 1; Dev Raheja, Louis J
+
+    Summary: Gullo and Jack Dixon 4.1 Introduction 63 4.2 Risk 68 4.3 Risk Management 69 4.4 What Happens When the Paradigms for Design for Safety Are Not Followed? 71 4.5 Tort Liability 72 4.6 An Introduction to Product Liability Law 73 4.7 Famous Legal Court Cases Involving Product Liability Law 75 4.8 Negligence 77 4.9 Warnings 79 4.10 The Rush to Market and the Risk of Unknown Hazards 80 4.11 Warranty 81 4.12 The Government Contractor Defense 83 4.13 Legal Conclusions Involving Defective and Unsafe Products 84 References 85 Suggestions for Additional Reading 86 5 Developing System Safety Requirements 87; Louis J
+
+    Summary: Gullo and Jack Dixon 3.1 Management of the System Safety Program 39 3.1.1 System Safety Management Considerations 40 3.1.2 Management Methods and Concepts 41 3.2 Engineering Viewpoint 44 3.2.1 Software Tools 45 3.2.2 Design Concepts and Strategy 45 3.2.3 System Development Process (SDP) 46 3.2.4 Systems Engineering V?]Model 46 3.2.5 Requirements Generation and Analysis 48 3.2.6 System Analysis 49 3.2.7 System Testing 49 3.2.8 Risk Management 50 3.3 Safety Integrated in Systems Engineering 50 3.4 Key Interfaces 51 3.5 Planning, Execution, and Documentation 52 3.5.1 System Safety Program Plan 52 3.5.2 Safety Assessment Report 58 3.5.3 Plans Related to System Safety 60 3.6 System Safety Tasks 61 References 61 Suggestions for Additional Reading 62 4 Managing Risks and Product Liabilities 63; Louis J
+
+    Summary: Hazard Tracking 150 7.7 Summary 152 References 152 Suggestions for Additional Reading 152 8 Failure Modes, Effects, and Criticality Analysis for System Safety 153; Louis J
+
+    Summary: Gullo 5.1 Why Do We Need Safety Requirements? 87 5.2 Design for Safety Paradigm 3 Revisited 89 5.3 How Do We Drive System Safety Requirements? 93 5.4 What Is a System Requirement? 94 5.4.1 Performance Specifications 96 5.4.2 Safety Requirement Specification (SRS) 98 5.5 Hazard Control Requirements 98 5.6 Developing Good Requirements 100 5.6.1 Recognize Bad Requirements 101 5.6.2 Requirements at the Top of the Issues List 102 5.6.3 Examples Good Requirements for System Safety 103 5.6.4 Negative versus Positive Requirements 104 5.7 Example of Certification and Validation Requirements for a PSDI 105 5.8 Examples of Requirements from STANAG 4404 111 5.9 Summary 113 References 114 6 System Safety Design Checklists 115; Jack Dixon 6.1 Background 115 6.2 Types of Checklists 116 6.2.1 Procedural Checklists 116 6.2.2
+Notizen:
+    Includes bibliographical references and index
+Weitere Verfasser:
+    Gullo, Louis J.
+
+    Dixon, Jack, 1948-
+ISBN:
+    9781118974315
+    1118974336
+    111897431X
+    9781118974339
+    9781118974292
+Online-Zugang:
+    Zum Volltext
+Akzessionsnummer:
+    zhb.1015065376
+Datenbank:
+    Katalog der ZHB Flensburg
+
+    Ergebnisliste Suche eingrenzen Ergebnis 25 von 42,382,858
+
+Datensatz-Formate minimieren
+Dokumentanzeigeoptionen:
+
+    Katalog der ZHB FlensburgZum Katalog der ZHB
+    HSF ProxyVolltext
+
+Verwandte Informationen
+
+Artikeltools minimieren
+Tools
+
+    Google Drive
+    Drucken
+    E-Mail
+    Speichern
+    Zitieren
+    Exportieren
+    Permalink
+
+
+
+Seitenanfang
+
+    EBSCO Connect Datenschutz A/B-Test Nutzungsbedingungen Urheberrecht Cookie-Richtlinie Wenden Sie sich an uns
+
+© 2022 EBSCO Industries, Inc. Alle Rechte vorbehalten.

@@ -1,0 +1,99 @@
+Cover:
+    https://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=9781316626221
+
+Gastzugang Hochschule Flensburg - bitte anmelden
+Zum Hauptinhalt
+
+    ZHB Benutzerkonto
+    Neue Suche
+    E-Medien A-Z
+    Kurzhilfe
+
+
+    Einstellungen
+    Sprache
+    Beenden
+
+citation_instruction
+Tipps und Informationen bezüglich des Zugriffs
+Programming in Haskell / Graham Hutton, University of Nottingham
+ZHB
+Suchen
+
+Bitte geben Sie Ihren Suchbegriff/Ihre Suchbegriffe ein
+Hilfe durchsuchen (wird in neuem Fenster geöffnet)
+
+    Einfache Suche Erweiterte Suche Suchverlauf
+
+ZHB Flensburg
+
+    Ergebnisliste Suche eingrenzen Ergebnis 6 von 6,448,487
+
+Zitat
+
+Titel:
+    Programming in Haskell / Graham Hutton, University of Nottingham
+    Book Jacket
+Sprache:
+    English
+Autoren:
+    Hutton, Graham, 1968-, VerfasserIn
+Publikationsinformationen:
+    Cambridge New York, NY Melbourne Delhi Singapore Cambridge University Press, 2016
+Ausgabe:
+    Second edition
+Jahr erschienen:
+    2016
+Umfang:
+    xvi, 304 Seiten Diagramme
+Publikationstyp:
+    Book
+Dokumenttyp:
+    Book
+Schlagwörter:
+    Haskell (Computer program language)
+Abstract:
+    Summary: Machine generated contents note: Foreword; Preface; Part I. Basic Concepts: 1. Introduction; 2. First steps; 3. Types and classes; 4. Defining functions; 5. List comprehensions; 6. Recursive functions; 7. Higher-order functions; 8. Declaring types and classes; 9. The countdown problem; Part II. Going Further: 10. Interactive programming; 11. Unbeatable tic-tac-toe; 12. Monads and more; 13. Monadic parsing; 14. Foldables and friends; 15. Lazy evaluation; 16. Reasoning about programs; 17. Calculating compilers; Appendix A. Selected solutions; Appendix B. Standard prelude; Bibliography; Index
+
+    Summary: "Haskell is a purely functional language that allows programmers to rapidly develop clear, concise, and correct software. The language has grown in popularity in recent years, both in teaching and in industry. This book is based on the author's experience of teaching Haskell for more than twenty years. All concepts are explained from first principles and no programming experience is required, making this book accessible to a broad spectrum of readers. While Part I focuses on basic concepts, Part II introduces the reader to more advanced topics. This new edition has been extensively updated and expanded to include recent and more advanced features of Haskell, new examples and exercises, selected solutions, and freely downloadable lecture slides and example code. The presentation is clean and simple, while also being fully compliant with the latest version of the language, including recent changes concerning applicative, monadic, foldable, and traversable types"--
+Notizen:
+    Erscheinungsjahr in Vorlageform: 2016
+    Hier auch später erschienene, unveränderte Nachdrucke
+    Literaturverzeichnis: Seiten 298-299
+Weitere Verfasser:
+    Meijer, Erik, 1963-
+ISBN:
+    9781316626221
+    1316626229
+Akzessionsnummer:
+    zhb.86551464X
+Datenbank:
+    Katalog der ZHB Flensburg
+
+    Ergebnisliste Suche eingrenzen Ergebnis 6 von 6,448,487
+
+Datensatz-Formate minimieren
+Dokumentanzeigeoptionen:
+
+    Katalog der ZHB FlensburgZum Katalog der ZHB
+
+Verwandte Informationen
+
+Artikeltools minimieren
+Tools
+
+    Google Drive
+    Drucken
+    E-Mail
+    Speichern
+    Zitieren
+    Exportieren
+    Permalink
+
+
+
+Seitenanfang
+
+    EBSCO Connect Datenschutz A/B-Test Nutzungsbedingungen Urheberrecht Cookie-Richtlinie Wenden Sie sich an uns
+
+© 2022 EBSCO Industries, Inc. Alle Rechte vorbehalten.

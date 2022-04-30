@@ -1,0 +1,104 @@
+Cover:
+    https://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=9780135161630
+
+Gastzugang Hochschule Flensburg - bitte anmelden
+Zum Hauptinhalt
+
+    ZHB Benutzerkonto
+    Neue Suche
+    E-Medien A-Z
+    Kurzhilfe
+
+
+    Einstellungen
+    Sprache
+    Beenden
+
+citation_instruction
+Tipps und Informationen bezüglich des Zugriffs
+Kotlin programming : the Big Nerd Ranch guide / Josh Skeen & David Greenhalgh
+ZHB
+Suchen
+
+Bitte geben Sie Ihren Suchbegriff/Ihre Suchbegriffe ein
+Hilfe durchsuchen (wird in neuem Fenster geöffnet)
+
+    Einfache Suche Erweiterte Suche Suchverlauf
+
+ZHB Flensburg
+
+    Ergebnisliste Suche eingrenzen Ergebnis 4 von 6,448,487
+
+Zitat
+
+Titel:
+    Kotlin programming : the Big Nerd Ranch guide / Josh Skeen & David Greenhalgh
+    Book Jacket
+Sprache:
+    English
+Autoren:
+    Skeen, Josh, VerfasserIn
+Publikationsinformationen:
+    Atlanta, GA Big Nerd Ranch, July 2018
+Ausgabe:
+    First edition
+Jahr erschienen:
+    2018
+Umfang:
+    xv, 384 Seiten Illustrationen 26 cm
+Publikationstyp:
+    Book
+Dokumenttyp:
+    Book
+Schlagwörter:
+    Kotlin (Computer program language)
+    Mobile apps
+    Application software
+    Android (Electronic resource)
+Abstract:
+    Summary: "Kotlin is a statically typed programming language designed to interoperate with Java and fully supported by Google on the Android operating system. Based on Big Nerd Ranch's popular Kotlin Essentials course, this guide shows you how to work effectively with the Kotlin programming language through hands-on examples and clear explanations of key Kotlin concepts and foundational APIs. Written for Kotlin 1.2, this book will also introduce you to JetBrains' IntelliJ IDEA development environment. Whether you are an experienced Android developer looking for modern features beyond what Java offers or a new developer ready to learn your first programming language, the authors will guide you from first principles to advanced usage of Kotlin. By the end of this book, you will be empowered to create reliable, concise applications in Kotlin." --
+Weitere Verfasser:
+    Greenhalgh, David G.
+
+    Greenhalgh, David
+ISBN:
+    9780135161630
+    0135161630
+Online-Zugang:
+    Inhaltsverzeichnis
+Akzessionsnummer:
+    zhb.1031184880
+Datenbank:
+    Katalog der ZHB Flensburg
+Location Information
+Standort	Signatur	Status	Fällig
+Freihand 1.OG & 2.OG	ST 250 K76 S627	Ausleihbar	Verfügbar
+
+    Ergebnisliste Suche eingrenzen Ergebnis 4 von 6,448,487
+
+Datensatz-Formate minimieren
+Dokumentanzeigeoptionen:
+
+    Katalog der ZHB FlensburgZum Katalog der ZHB
+    HSF ProxyVolltext
+
+Verwandte Informationen
+
+Artikeltools minimieren
+Tools
+
+    Google Drive
+    Drucken
+    E-Mail
+    Speichern
+    Zitieren
+    Exportieren
+    Permalink
+
+
+
+Seitenanfang
+
+    EBSCO Connect Datenschutz A/B-Test Nutzungsbedingungen Urheberrecht Cookie-Richtlinie Wenden Sie sich an uns
+
+© 2022 EBSCO Industries, Inc. Alle Rechte vorbehalten.

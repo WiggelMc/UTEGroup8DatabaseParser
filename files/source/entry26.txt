@@ -1,0 +1,98 @@
+Cover:
+    https://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=1680502336
+
+Gastzugang Hochschule Flensburg - bitte anmelden
+Zum Hauptinhalt
+
+    ZHB Benutzerkonto
+    Neue Suche
+    E-Medien A-Z
+    Kurzhilfe
+
+
+    Einstellungen
+    Sprache
+    Beenden
+
+citation_instruction
+Tipps und Informationen bezüglich des Zugriffs
+Functional programming : a PragPub anthology exploring Clojure, Elixir, Haskell, Scala, and Swift / Michael Swaine and the PragPub writers
+ZHB
+Suchen
+
+Bitte geben Sie Ihren Suchbegriff/Ihre Suchbegriffe ein
+Hilfe durchsuchen (wird in neuem Fenster geöffnet)
+
+    Einfache Suche Erweiterte Suche Suchverlauf
+
+ZHB Flensburg
+
+    Ergebnisliste Suche eingrenzen Ergebnis 2 von 6,448,487
+
+Zitat
+
+Titel:
+    Functional programming : a PragPub anthology exploring Clojure, Elixir, Haskell, Scala, and Swift / Michael Swaine and the PragPub writers
+    Book Jacket
+Sprache:
+    English
+Autoren:
+    Swaine, Michael, 1945-, VerfasserIn
+Publikationsinformationen:
+    Raleigh, North Carolina The Pragmatic Bookshelf, 2017
+Jahr erschienen:
+    2017
+Umfang:
+    xii, 263 Seiten 24 cm
+Serie:
+    The Pragmatic programmers
+Publikationstyp:
+    Book
+Dokumenttyp:
+    Book
+Schlagwörter:
+    Functional programming (Computer science)
+Abstract:
+    Summary: Part I: The functional paradigm -- Functional programming is big again -- Functional thinking for the imperative mind -- Part II: Scala: a hybrid language -- Scala and functional style -- Working with Scala collections -- Creating higher-order functions in Scala -- Part III: Clojure: the new lisp -- An interview with Rich Hickey -- Getting Clojure: why lisp still matters -- Identity, value, and state in Clojure -- Concurrent programming in Clojure -- Part IV: Elixir: making programming fun again -- Patterns and transformations in Elixir -- Getting functional with Elixir -- Getting parallel with Elixir -- Part V: Haskell: the researcher's playground -- Haskell hands-on -- Part VI: Swift: functional programming for mobile apps -- Swift: what you need to know -- Functional thinking in Swift -- Part VII: Going deeper -- Protocols in Swift vs. Ruby and Elixir -- Pattern matching in Scala -- Concurrency in Scala -- Clojure's exceptional handling of exceptions -- A testing framework for Elixir -- Building test data with Elixir -- Haskell's type system -- A Haskell project: testing native code -- The many faces of Swift functions -- A functional approach to Lua
+
+    Summary: "Explore functional programming and discover new ways of thinking about code. You know you need to master functional programming, but learning one functional language is only the start. In this book, through articles drawn from PragPub magazine and articles written specifically for this book, you'll explore functional thinking and functional style and idioms across languages. Led by expert guides, you'll discover the distinct strengths and approaches of Clojure, Elixir, Haskell, Scala, and Swift and learn which best suits your needs."--
+Notizen:
+    Includes bibliographical references (pages 251-252) and index
+ISBN:
+    1680502336
+    9781680502336
+Akzessionsnummer:
+    zhb.1040641164
+Datenbank:
+    Katalog der ZHB Flensburg
+Location Information
+Standort	Signatur	Status	Fällig
+Freihand 1.OG & 2.OG	ST 230 S971	Ausleihbar	Verfügbar
+
+    Ergebnisliste Suche eingrenzen Ergebnis 2 von 6,448,487
+
+Datensatz-Formate minimieren
+Dokumentanzeigeoptionen:
+
+    Katalog der ZHB FlensburgZum Katalog der ZHB
+
+Verwandte Informationen
+
+Artikeltools minimieren
+Tools
+
+    Google Drive
+    Drucken
+    E-Mail
+    Speichern
+    Zitieren
+    Exportieren
+    Permalink
+
+
+
+Seitenanfang
+
+    EBSCO Connect Datenschutz A/B-Test Nutzungsbedingungen Urheberrecht Cookie-Richtlinie Wenden Sie sich an uns
+
+© 2022 EBSCO Industries, Inc. Alle Rechte vorbehalten.

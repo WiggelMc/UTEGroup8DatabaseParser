@@ -1,0 +1,106 @@
+Cover:
+    https://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=9781449394707
+
+Gastzugang Hochschule Flensburg - bitte anmelden
+Zum Hauptinhalt
+
+    ZHB Benutzerkonto
+    Neue Suche
+    E-Medien A-Z
+    Kurzhilfe
+
+
+    Einstellungen
+    Sprache
+    Beenden
+
+citation_instruction
+Tipps und Informationen bezüglich des Zugriffs
+Clojure programming : [practical Lisp for the Java world] / Chas Emerick; Brian Carper, and Christophe Grand
+ZHB
+Suchen
+
+Bitte geben Sie Ihren Suchbegriff/Ihre Suchbegriffe ein
+Hilfe durchsuchen (wird in neuem Fenster geöffnet)
+
+    Einfache Suche Erweiterte Suche Suchverlauf
+
+ZHB Flensburg
+
+    Ergebnisliste Suche eingrenzen Ergebnis 10 von 6,448,487
+
+Zitat
+
+Titel:
+    Clojure programming : [practical Lisp for the Java world] / Chas Emerick; Brian Carper, and Christophe Grand
+    Book Jacket
+Sprache:
+    English
+Autoren:
+    Emerick, Chas, VerfasserIn
+Publikationsinformationen:
+    Beijing Köln [u.a.] O'Reilly, 2012
+Ausgabe:
+    1., ed.
+Jahr erschienen:
+    2012
+Umfang:
+    XVIII, 607 S. Ill., graph. Darst 24 cm
+Publikationstyp:
+    Book
+Dokumenttyp:
+    Book
+Schlagwörter:
+    Java virtual machine
+    Functional programming (Computer science)
+    Clojure (Computer program language)
+    Java (Computer program language)
+Abstract:
+    Summary: "Clojure programming ... This functional programming language not only lets you take advantage of Java libraries, services, and other JVM resources, it rivals other dynamic languages such as Ruby and Python. With this comprehensive guide, you'll learn Clojure fundamentals with examples that relate it to languages you already know"--P. [4] of cover
+Notizen:
+    Includes index
+    Down the rabbit hole -- Functional programming -- Collections and data structures -- Concurrency and parallelism -- Macros -- Datatypes and protocols -- Multimethods -- Organizing and building Clojure projects -- Java and JVM interoperability -- REPL-oriented programming -- Numerics and mathematics -- Design patterns -- Testing -- Using relational databases -- Using nonrelational databases -- Clojure and the Web -- Deploying Clojure web applications -- Choosing Clojure type definition forms wisely -- Introducing Clojure into your workplace -- What's next?
+Weitere Verfasser:
+    Grand, Christophe
+
+    Carper, Brian
+ISBN:
+    9781449394707
+    1449394701
+LCCN:
+    2012405367
+Akzessionsnummer:
+    zhb.663419212
+Datenbank:
+    Katalog der ZHB Flensburg
+Location Information
+Standort	Signatur	Status	Fällig
+Freihand 1.OG & 2.OG	ST 250 C48 E53	Ausleihbar	Verfügbar
+
+    Ergebnisliste Suche eingrenzen Ergebnis 10 von 6,448,487
+
+Datensatz-Formate minimieren
+Dokumentanzeigeoptionen:
+
+    Katalog der ZHB FlensburgZum Katalog der ZHB
+
+Verwandte Informationen
+
+Artikeltools minimieren
+Tools
+
+    Google Drive
+    Drucken
+    E-Mail
+    Speichern
+    Zitieren
+    Exportieren
+    Permalink
+
+
+
+Seitenanfang
+
+    EBSCO Connect Datenschutz A/B-Test Nutzungsbedingungen Urheberrecht Cookie-Richtlinie Wenden Sie sich an uns
+
+© 2022 EBSCO Industries, Inc. Alle Rechte vorbehalten.

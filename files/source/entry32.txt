@@ -1,0 +1,109 @@
+Cover:
+    https://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=9780124159334
+
+Gastzugang Hochschule Flensburg - bitte anmelden
+Zum Hauptinhalt
+
+    ZHB Benutzerkonto
+    Neue Suche
+    E-Medien A-Z
+    Kurzhilfe
+
+
+    Einstellungen
+    Sprache
+    Beenden
+
+citation_instruction
+Tipps und Informationen bezüglich des Zugriffs
+CUDA programming : a developer's guide to parallel computing with GPUs / Shane Cook
+ZHB
+Suchen
+
+Bitte geben Sie Ihren Suchbegriff/Ihre Suchbegriffe ein
+Hilfe durchsuchen (wird in neuem Fenster geöffnet)
+
+    Einfache Suche Erweiterte Suche Suchverlauf
+
+ZHB Flensburg
+
+    Ergebnisliste Suche eingrenzen Ergebnis 8 von 6,448,487
+
+Zitat
+
+Titel:
+    CUDA programming : a developer's guide to parallel computing with GPUs / Shane Cook
+    Book Jacket
+Sprache:
+    English
+Autoren:
+    Cook, Shane, VerfasserIn
+Publikationsinformationen:
+    Amsterdam Boston Elsevier/MK, c2013
+Jahr erschienen:
+    2013
+Umfang:
+    Online-Ressource (XIV, 576 S) Ill., graph. Darst.
+Serie:
+    Applications of GPU computing series
+Publikationstyp:
+    Book
+Dokumenttyp:
+    Online
+Schlagwörter:
+    Parallel processing (Electronic computers)
+    Parallel programming (Computer science)
+Abstract:
+    Summary: If you need to learn CUDA but don't have experience with parallel computing, CUDA Programming: A Developer's Introduction offers a detailed guide to CUDA with a grounding in parallel fundamentals. It starts by introducing CUDA and bringing you up to speed on GPU parallelism and hardware, then delving into CUDA installation. Chapters on core concepts including threads, blocks, grids, and memory focus on both parallel and CUDA-specific issues. Later, the book demonstrates CUDA in practice for optimizing applications, adjusting to new hardware, and solving common problems. Comprehensive introduction to parallel programming with CUDA, for readers new to both. Detailed instructions help readers optimize the CUDA software development kitPractical techniques illustrate working with memory, threads, algorithms, resources, and more. Covers CUDA on multiple hardware platforms: Mac, Linux and Windows with several NVIDIA chipsets. Each chapter includes exercises to test reader knowledge
+Notizen:
+    DOI: http://site.ebrary.com/lib/zhbflensburg/docDetail.action?docID=10619222
+    Includes bibliographical references and index
+    Electronic reproduction; Available via World Wide Web
+    Online-Ausg. Palo Alto, Calif ebrary 2011 Electronic reproduction; Available via World Wide Web |2011||||||||||
+Weitere Verfasser:
+    ebrary, Inc
+ISBN:
+    9780124159334
+    01241593389780124159334
+    9780124159884
+Online-Zugang:
+    Inhaltsverzeichnis
+    Zum Volltext
+Akzessionsnummer:
+    zhb.739775111
+Datenbank:
+    Katalog der ZHB Flensburg
+
+Ähnliche Bücher
+
+    Ergebnisliste Suche eingrenzen Ergebnis 8 von 6,448,487
+
+Datensatz-Formate minimieren
+Dokumentanzeigeoptionen:
+
+    View record from ScienceDirectView record from ScienceDirect
+    Katalog der ZHB FlensburgZum Katalog der ZHB
+    HSF ProxyVolltext
+
+Verwandte Informationen
+
+    Ähnliche Bücher
+
+Artikeltools minimieren
+Tools
+
+    Google Drive
+    Drucken
+    E-Mail
+    Speichern
+    Zitieren
+    Exportieren
+    Permalink
+
+
+
+Seitenanfang
+
+    EBSCO Connect Datenschutz A/B-Test Nutzungsbedingungen Urheberrecht Cookie-Richtlinie Wenden Sie sich an uns
+
+© 2022 EBSCO Industries, Inc. Alle Rechte vorbehalten.
